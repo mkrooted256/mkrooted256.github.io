@@ -17,7 +17,7 @@ GitHub: https://github.com/mkrooted256
 - **2023** - Completed a Bachelor’s degree in Applied Mathematics at the Educational and Scientific Institute of Physics and Technology (IPT), NTUU “KPI”.
 
 ### Scholarships & Honors
-- **European Central Bank Scholarship for Ukrainian Graduates** (2025)  
+- **European Central Bank Scholarship for Ukrainian Graduates** (2023)  
   Competitive scholarship awarded by the European Central Bank to support outstanding Ukrainian graduates pursuing further academic and professional development.
 
 ### Professional Experience
