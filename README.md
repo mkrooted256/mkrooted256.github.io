@@ -41,7 +41,7 @@ in collaboration with the Wellcome Sanger Institute
 ### Selected Achievements & Activities
 **Talks & Conferences**
 - Invited lecture at **KAU Data Science School 2024** on texture analysis in images;
-- Poster presentation at **ECCB 2024** (European Conference on Computational Biology), Turku, Finland;
+- Poster presentation at **ECCB 2024** (European Conference on Computational Biology), Turku, Finland: “fastLBP: a texture descriptor for large digital pathology images”
 
 **Educational & Outreach Activities**
 - Contributed to the organization of “Techno 2019” and “Techno 2020” science and technology competitions for school students
