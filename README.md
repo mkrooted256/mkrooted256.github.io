@@ -6,7 +6,7 @@ Mathematician and software engineer with experience in scientific computation, n
 Interested in theoretical computer science and applying modern mathematical methods to real-world computational problems.
 
 Kyiv, Ukraine  
-mykhailo.koreshkov@gmail.com
+mykhailo.koreshkov@gmail.com  
 https://www.linkedin.com/in/mkrooted
 
 ### Education
