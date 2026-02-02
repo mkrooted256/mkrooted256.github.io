@@ -16,6 +16,10 @@ GitHub: https://github.com/mkrooted256
   Core areas: differential topology, advanced functional analysis, algebra, category theory, Lie algebras. Worked on applied problems in bioinformatics. Master’s thesis focused on texture classification in medical images, formulated as a problem of similarity between probability distributions.
 - **2023** - Completed a Bachelor’s degree in Applied Mathematics at the Educational and Scientific Institute of Physics and Technology (IPT), NTUU “KPI”.
 
+### Scholarships & Honors
+- **European Central Bank Scholarship for Ukrainian Graduates** (2025)  
+  Competitive scholarship awarded by the European Central Bank to support outstanding Ukrainian graduates pursuing further academic and professional development.
+
 ### Professional Experience
 (2025-present) **Applied Mathematician** (Physics simulations, computer graphics, control systems) at NDA**
 
