@@ -8,7 +8,7 @@ Interested in theoretical computer science and applying modern mathematical meth
 
 Kyiv, Ukraine.  
 Email: mykhailo.koreshkov@gmail.com  
-Email: m.koreshkov@imath.kiev.ua
+Email: m.koreshkov@imath.kiev.ua  
 LinkedIn: [https://www.linkedin.com/in/mkrooted](https://www.linkedin.com/in/mkrooted)    
 GitHub: [https://github.com/mkrooted256](https://github.com/mkrooted256)  
 Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)
