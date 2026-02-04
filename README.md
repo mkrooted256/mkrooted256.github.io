@@ -1,20 +1,26 @@
 # Mykhailo Koreshkov
 
 **Applied Mathematician & Research Software Engineer**  
-_Junior Researcher, Department of Mathematical Physics, **Institute of Mathematics** (NAS of Ukraine)_
+_PhD Student at Department of Mathematical Physics, **Institute of Mathematics** (NAS of Ukraine)_
 
 Mathematician and software engineer with experience in scientific computing, numerical modeling, and high-performance C++ development.  
 Interested in theoretical computer science and applying modern mathematical methods to real-world computational problems.
 
 Kyiv, Ukraine.  
 Email: mykhailo.koreshkov@gmail.com  
-LinkedIn: https://www.linkedin.com/in/mkrooted  
-GitHub: https://github.com/mkrooted256
-
+Email: m.koreshkov@imath.kiev.ua
+LinkedIn: [https://www.linkedin.com/in/mkrooted](https://www.linkedin.com/in/mkrooted)    
+GitHub: [https://github.com/mkrooted256](https://github.com/mkrooted256)  
+Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)
 
 ### Education
 
-**MSc in Mathematics** &mdash; Institute of Mathematics, NAS of Ukraine  
+**PhD in Mathematics** &mdash; Institute of Mathematics, NAS of Ukraine  
+*2025-2029*
+- Department of Mathematical Physics
+- Advisor &mdash; [Maryna Nesterenko](https://www.imath.kiev.ua/~maryna/)
+
+**MSc in Mathematics** &mdash; Kyiv Academic University and Institute of Mathematics, NAS of Ukraine  
 *2023–2025*  
 - Graduated with honors  
 - Core areas: differential topology, advanced functional analysis, algebra, category theory, Lie algebras  
