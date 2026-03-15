@@ -13,6 +13,14 @@ LinkedIn: [https://www.linkedin.com/in/mkrooted](https://www.linkedin.com/in/mkr
 GitHub: [https://github.com/mkrooted256](https://github.com/mkrooted256)  
 Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)
 
+### PhD Research
+
+Quasicrystals, cut-and-project method, torus parametrisation, Fourier analysis of almost periodic functions, local functions.  
+Studying Lie groups and symmetry methods in differential equations.
+
+- Talk at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine. [Presentation (uk)](https://www.imath.kiev.ua/~m.koreshkov/quasicrystals-koreshkov-20260302.pdf).
+- Symmetry and Integrability of Equations of Mathematical Physics, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kiev.ua/~appmath/part2025en.html).
+
 ### Education
 
 **PhD in Mathematics** &mdash; Institute of Mathematics, NAS of Ukraine  
