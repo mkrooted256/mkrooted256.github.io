@@ -7,11 +7,11 @@ Mathematician and software engineer with experience in scientific computing, num
 Interested in theoretical computer science and applying modern mathematical methods to real-world computational problems.
 
 Kyiv, Ukraine.  
-Email: mykhailo.koreshkov@gmail.com  
-Email: m.koreshkov@imath.kiev.ua  
+Email: mykhailo.koreshkov@gmail.com, m.koreshkov@imath.kiev.ua  
 LinkedIn: [https://www.linkedin.com/in/mkrooted](https://www.linkedin.com/in/mkrooted)    
 GitHub: [https://github.com/mkrooted256](https://github.com/mkrooted256)  
-Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)
+This page: [https://mkrooted256.github.io](https://mkrooted256.github.io)  
+Academic Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)
 
 ### PhD Research
 
