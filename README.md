@@ -52,9 +52,11 @@ Studying Lie groups and symmetry methods in differential equations.
 - Mathematical and statistical modeling  
 - Collaboration with the Wellcome Sanger Institute
 
-**Technical Specialist** &mdash; Education-focused NGO  
+**IT Manager** at Education-focused NGO  
 *2024–present*  
-- Technical support and infrastructure development for educational initiatives
+- Infrastructure, internal systems, and in-house development
+- IT solution design and project scoping
+- Vendor and contractor management
 
 **Middle C++ Game Engine Developer / DevOps Engineer**  
 *2022–2023*  
