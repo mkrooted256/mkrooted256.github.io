@@ -52,7 +52,7 @@ Studying Lie groups and symmetry methods in differential equations.
 - Mathematical and statistical modeling  
 - Collaboration with the Wellcome Sanger Institute
 
-**IT Manager** at Education-focused NGO  
+**IT Manager** &mdash; Education-focused NGO  
 *2024–present*  
 - Infrastructure, internal systems, and in-house development
 - IT solution design and project scoping
