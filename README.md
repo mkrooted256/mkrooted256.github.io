@@ -20,7 +20,7 @@ Studying Lie groups and symmetry methods in differential equations.
 
 - Talk at the [KyivAcademUs 2026](https://sites.google.com/view/kyivacademus/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) conference by Kyiv Academic University. [Slides (uk)](https://www.imath.kiev.ua/~m.koreshkov/slides-koreshkov-kyivacademus2026.pdf).
 - Talk at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine. [Presentation (uk)](https://www.imath.kiev.ua/~m.koreshkov/quasicrystals-koreshkov-20260302.pdf).
-- Symmetry and Integrability of Equations of Mathematical Physics, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kiev.ua/~appmath/part2025en.html).
+- Symmetry and Integrability of Equations of Mathematical Physics &ndash; 2025, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kiev.ua/~appmath/part2025en.html).
 
 ### Education
 
