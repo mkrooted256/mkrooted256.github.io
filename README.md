@@ -66,9 +66,11 @@ Studying Lie groups and symmetry methods in differential equations.
 
 ---
 
-### Scholarships & Honors
+### Scholarships, Grants & Honors
+- Project of the **National Research Foundation of Ukraine** of the call "Excellent Science in Ukraine 2026 – 2028", 2025.07/0405 ["Algebraic methods for studying equations of mathematical physics"](https://nrfu.org.ua/wp-content/uploads/2025/12/rejtyngovyj-spysok-proyektiv.pdf)
 - **European Central Bank Scholarship for Ukrainian Graduates** (2023)  
   Competitive scholarship awarded by the European Central Bank to support outstanding Ukrainian graduates pursuing further academic and professional development.
+
 
 ---
 
