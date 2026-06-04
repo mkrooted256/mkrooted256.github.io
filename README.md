@@ -18,8 +18,9 @@ Academic Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://ima
 Quasicrystals, cut-and-project method, torus parametrisation, Fourier analysis of almost periodic functions, local functions.  
 Studying Lie groups and symmetry methods in differential equations.
 
+- Talk at the [International Conference of Young Mathematicians 2026](https://www.imath.kiev.ua/~young/youngconf2026/) conference by Institute of Mathematics of NAS of Ukraine. [Slides (uk)](https://www.imath.kiev.ua/~m.koreshkov/slides-Koreshkov-Nesterenko-young2026.pdf)
 - Talk at the [KyivAcademUs 2026](https://sites.google.com/view/kyivacademus/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) conference by Kyiv Academic University. [Slides (uk)](https://www.imath.kiev.ua/~m.koreshkov/slides-koreshkov-kyivacademus2026.pdf).
-- Talk at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine. [Presentation (uk)](https://www.imath.kiev.ua/~m.koreshkov/quasicrystals-koreshkov-20260302.pdf).
+- Participation in the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine.
 - Symmetry and Integrability of Equations of Mathematical Physics &ndash; 2025, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kiev.ua/~appmath/part2025en.html).
 
 ### Education
@@ -75,7 +76,7 @@ Studying Lie groups and symmetry methods in differential equations.
 ---
 
 ### Selected Achievements & Activities
-**Talks & Conferences**
+**Other Talks & Conferences**
 - **KAU Data Science School 2024** &mdash; Invited lecture on texture analysis in images
 - **ECCB 2024** (European Conference on Computational Biology) &mdash; “fastLBP: a texture descriptor for large digital pathology images” poster presentation, Turku, Finland. 
 
