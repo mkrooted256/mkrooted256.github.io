@@ -11,13 +11,16 @@ Email: mykhailo.koreshkov@gmail.com, m.koreshkov@imath.kiev.ua
 LinkedIn: [https://www.linkedin.com/in/mkrooted](https://www.linkedin.com/in/mkrooted)    
 GitHub: [https://github.com/mkrooted256](https://github.com/mkrooted256)  
 This page: [https://mkrooted256.github.io](https://mkrooted256.github.io)  
-Academic Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)
+Academic Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)  
+ORCID: 	[https://orcid.org/0009-0009-1968-0580](https://orcid.org/0009-0009-1968-0580)  
+Google Scholar: 	[https://scholar.google.com/citations?user=Woz5WI0AAAAJ&hl=uk](https://scholar.google.com/citations?user=Woz5WI0AAAAJ&hl=uk)
 
 ### PhD Research
 
 Quasicrystals, cut-and-project method, torus parametrisation, Fourier analysis of almost periodic functions, local functions.  
 Studying Lie groups and symmetry methods in differential equations.
 
+- Conference Paper 'Interactive torus parametrization of the one-dimensional Fibonacci quasicrystal' (in Ukrainian), KyivAcademUs2026, 2026, [https://doi.org/10.3842/kau.2026.math.01](https://doi.org/10.3842/kau.2026.math.01)
 - Talk at the [International Conference of Young Mathematicians 2026](https://www.imath.kiev.ua/~young/youngconf2026/) conference by Institute of Mathematics of NAS of Ukraine. [Slides (uk)](https://www.imath.kiev.ua/~m.koreshkov/slides-Koreshkov-Nesterenko-young2026.pdf)
 - Talk at the [KyivAcademUs 2026](https://sites.google.com/view/kyivacademus/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) conference by Kyiv Academic University. [Slides (uk)](https://www.imath.kiev.ua/~m.koreshkov/slides-koreshkov-kyivacademus2026.pdf).
 - Participation in the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine.
