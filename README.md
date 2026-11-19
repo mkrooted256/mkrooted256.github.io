@@ -7,11 +7,11 @@ Mathematician and software engineer with experience in scientific computing, num
 Interested in theoretical computer science and applying modern mathematical methods to real-world computational problems.
 
 Kyiv, Ukraine.  
-Email: mykhailo.koreshkov@gmail.com, m.koreshkov@imath.kiev.ua  
+Email: mykhailo.koreshkov@gmail.com, m.koreshkov@imath.kyiv.ua  
 LinkedIn: [https://www.linkedin.com/in/mkrooted](https://www.linkedin.com/in/mkrooted)    
 GitHub: [https://github.com/mkrooted256](https://github.com/mkrooted256)  
 This page: [https://mkrooted256.github.io](https://mkrooted256.github.io)  
-Academic Profile: [https://imath.kiev.ua/people/profile.php?pid=579](https://imath.kiev.ua/people/profile.php?pid=579)  
+Academic Profile: [https://imath.kyiv.ua/people/profile.php?pid=579](https://imath.kyiv.ua/people/profile.php?pid=579)  
 ORCID: 	[https://orcid.org/0009-0009-1968-0580](https://orcid.org/0009-0009-1968-0580)  
 Google Scholar: 	[https://scholar.google.com/citations?user=Woz5WI0AAAAJ&hl=uk](https://scholar.google.com/citations?user=Woz5WI0AAAAJ&hl=uk)
 
@@ -23,18 +23,18 @@ Studying Lie groups and symmetry methods in differential equations.
 
 - Conference Paper 'Interactive torus parametrization of the one-dimensional Fibonacci quasicrystal' (in Ukrainian), KyivAcademUs2026, 2026, [https://doi.org/10.3842/kau.2026.math.01](https://doi.org/10.3842/kau.2026.math.01)
   - Expanded Arxiv version (in English) https://arxiv.org/abs/2609.33863
-  - **Online interactive app** [Fibonacci torus parametrization](https://imath.kiev.ua/~m.koreshkov/cutproject1d/) to construct the fibonacci quasicrystal and explore its realizations on the local hull torus.
-- Talk at the [International Conference of Young Mathematicians 2026](https://www.imath.kiev.ua/~young/youngconf2026/) conference by Institute of Mathematics of NAS of Ukraine. [Slides (uk)](https://www.imath.kiev.ua/~m.koreshkov/slides-Koreshkov-Nesterenko-young2026.pdf)
-- Talk at the [KyivAcademUs 2026](https://sites.google.com/view/kyivacademus/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) conference by Kyiv Academic University. [Slides (uk)](https://www.imath.kiev.ua/~m.koreshkov/slides-koreshkov-kyivacademus2026.pdf).
+  - **Online interactive app** [Fibonacci torus parametrization](https://imath.kyiv.ua/~m.koreshkov/cutproject1d/) to construct the fibonacci quasicrystal and explore its realizations on the local hull torus.
+- Talk at the [International Conference of Young Mathematicians 2026](https://www.imath.kyiv.ua/~young/youngconf2026/) conference by Institute of Mathematics of NAS of Ukraine. [Slides (uk)](https://www.imath.kyiv.ua/~m.koreshkov/slides-Koreshkov-Nesterenko-young2026.pdf)
+- Talk at the [KyivAcademUs 2026](https://sites.google.com/view/kyivacademus/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) conference by Kyiv Academic University. [Slides (uk)](https://www.imath.kyiv.ua/~m.koreshkov/slides-koreshkov-kyivacademus2026.pdf).
 - Participation in the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine.
-- Symmetry and Integrability of Equations of Mathematical Physics &ndash; 2025, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kiev.ua/~appmath/part2025en.html).
+- Symmetry and Integrability of Equations of Mathematical Physics &ndash; 2025, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kyiv.ua/~appmath/part2025en.html).
 
 ### Education
 
 **PhD in Mathematics** &mdash; Institute of Mathematics, NAS of Ukraine  
 *2025-2029*
 - Department of Mathematical Physics
-- Advisor &mdash; [Maryna Nesterenko](https://www.imath.kiev.ua/~maryna/)
+- Advisor &mdash; [Maryna Nesterenko](https://www.imath.kyiv.ua/~maryna/)
 
 **MSc in Mathematics** &mdash; Kyiv Academic University and Institute of Mathematics, NAS of Ukraine  
 *2023–2025*  
