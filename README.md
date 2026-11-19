@@ -23,10 +23,11 @@ Studying Lie groups and symmetry methods in differential equations.
 
 - Conference Paper 'Interactive torus parametrization of the one-dimensional Fibonacci quasicrystal' (in Ukrainian), KyivAcademUs2026, 2026, [https://doi.org/10.3842/kau.2026.math.01](https://doi.org/10.3842/kau.2026.math.01)
   - Expanded Arxiv version (in English) https://arxiv.org/abs/2609.33863
-  - **Online interactive app** [Fibonacci torus parametrization](https://imath.kyiv.ua/~m.koreshkov/cutproject1d/) to construct the fibonacci quasicrystal and explore its realizations on the local hull torus.
+  - **Online interactive app** [Fibonacci torus parametrization](https://imath.kyiv.ua/~m.koreshkov/cutproject1d/) to construct the fibonacci quasicrystal and explore its realizations on the local hull torus. [Source code](https://github.com/mkrooted256/fibonacci-torus-notebook/).
 - Talk at the [International Conference of Young Mathematicians 2026](https://www.imath.kyiv.ua/~young/youngconf2026/) conference by Institute of Mathematics of NAS of Ukraine. [Slides (uk)](https://www.imath.kyiv.ua/~m.koreshkov/slides-Koreshkov-Nesterenko-young2026.pdf)
 - Talk at the [KyivAcademUs 2026](https://sites.google.com/view/kyivacademus/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) conference by Kyiv Academic University. [Slides (uk)](https://www.imath.kyiv.ua/~m.koreshkov/slides-koreshkov-kyivacademus2026.pdf).
-- Participation in the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine.
+- Talk "Mathematical quasicrystals" at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine, 2 March 2026. [Slides (uk)](https://imath.kyiv.ua/~m.koreshkov/quasicrystals-koreshkov-20260302.pdf)
+- Talk ["Constructing a one-dimensional quasicrystal and exploring its invariants"](https://events.imath.kyiv.ua/event/2237/) at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine, 19 October 2026.
 - Symmetry and Integrability of Equations of Mathematical Physics &ndash; 2025, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kyiv.ua/~appmath/part2025en.html).
 
 ### Education
