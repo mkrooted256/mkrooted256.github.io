@@ -27,7 +27,7 @@ Studying Lie groups and symmetry methods in differential equations.
 - Talk at the [International Conference of Young Mathematicians 2026](https://www.imath.kyiv.ua/~young/youngconf2026/) conference by Institute of Mathematics of NAS of Ukraine. [Slides (uk)](https://www.imath.kyiv.ua/~m.koreshkov/slides-Koreshkov-Nesterenko-young2026.pdf)
 - Talk at the [KyivAcademUs 2026](https://sites.google.com/view/kyivacademus/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0) conference by Kyiv Academic University. [Slides (uk)](https://www.imath.kyiv.ua/~m.koreshkov/slides-koreshkov-kyivacademus2026.pdf).
 - Talk "Mathematical quasicrystals" at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine, 2 March 2026. [Slides (uk)](https://imath.kyiv.ua/~m.koreshkov/quasicrystals-koreshkov-20260302.pdf)
-- Talk ["Constructing a one-dimensional quasicrystal and exploring its invariants"](https://events.imath.kyiv.ua/event/2237/) at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine, 19 October 2026. [Slides (uk)](https://imath.kyiv.ua/~m.koreshkov/quasicrystals-koreshkov-20261019.pdf)
+- Talk ["Constructing a one-dimensional quasicrystal and exploring its invariants"](https://events.imath.kiev.ua/event/2237/) at the seminar of the department of mathematical physics, Institute of Mathematics, NAS of Ukraine, 19 October 2026. [Slides (uk)](https://imath.kyiv.ua/~m.koreshkov/quasicrystals-koreshkov-20261019.pdf)
 - Symmetry and Integrability of Equations of Mathematical Physics &ndash; 2025, Institute of Mathematics, NAS of Ukraine. [Abstract (uk)](https://www.imath.kyiv.ua/~appmath/part2025en.html).
 
 ### Education
